@@ -11,15 +11,15 @@
 ### Nombre de la Asignatura:
 **Interconexión de Redes**
 
->.[!NOTE].
+>[!NOTE]
 >Esta documetacion es solo para registro de mi actividad.
 ---
 
 ### Trabajo:
 **Práctica IoT**
 
-> .[!IMPORTANT].
-> La archivo es solo para usos practicos por favor no te lo piratees.
+> [!IMPORTANT]
+> El archivo es solo para usos practicos por favor no te lo piratees.
 
 ---
 
@@ -42,7 +42,8 @@
 
 Durante el curso de introducción a las IoT (Internet of Things), abordamos entornos y aplicaciones de IoT. En esta práctica, emulamos un entorno “realista” utilizando herramientas de Cisco. Configuramos dispositivos IoT para conectarse y ser gestionados mediante sensores, controladores y actuadores.
 
-![Implemenacion DHCP](/Cisco/assets/dhcp.png")
+![DHCP](https://www.dropbox.com/scl/fi/iym2o64sj1rwvei9npzr1/dhcp.png?rlkey=8d65agmijg0ho4ndzqd5pk0v2&st=ve2m0um6&raw=1)
+
 
 ---
 
@@ -57,12 +58,16 @@ Durante el curso de introducción a las IoT (Internet of Things), abordamos ento
 ## Gestión de Dispositivos IoT
 
 1. **Conexión de dispositivos:** Configuración para permitir la conexión de dispositivos IoT al servidor.
-    ![Configuracion IoT -> Server](/Cisco/assets/IoTconfig.png")
+    ![IoT Configuration](https://www.dropbox.com/scl/fi/vl8emnn9ba5j0z5s0anzh/IoTconfig.png?rlkey=sjc1u0sjudzqbs0uf7yox63s0&st=7xxqes30&raw=1)
+
 2. **Gestión remota:** Configuración de usuario y contraseña para administración remota desde el navegador.
-   ![Password y SSID](/Cisco/assets/pass-name.png")
+   ![Pass and Name](https://www.dropbox.com/scl/fi/h1h61nr0dxks2l62jwc3a/pass-name.png?rlkey=kbshj5j94s5y7gdgjp2yuxy9q&st=b4jokxiw&raw=1)
+
 
 3. **Visualizacion via ip:192.168.0.2**
-   ![Visualizacion via web](/Cisco/assets/view-ip.png")
+ 
+   ![View IP](https://www.dropbox.com/scl/fi/bx6iurjnku020l3k20t2h/view-ip.png?rlkey=5b00ak1gyh0anaj3vh8y9gnvg&st=lqca9fn5&raw=1)
+
 ---
 
 ## Topología de la Casa Inteligente
@@ -70,15 +75,19 @@ Durante el curso de introducción a las IoT (Internet of Things), abordamos ento
 ### Sistemas Implementados:
 1. **Sistemas para incendios:**
    - Detección de fuego y activación de extintores y alarmas.
-   ![Sistema para incendios](/Cisco/assets/Sis-incendio.png")
+   ![Sistema de Incendio](https://www.dropbox.com/scl/fi/919fh5tdhv9uyii1h2cgc/Sis-incendio.png?rlkey=iyysss9ozyi2mt6b7y875q3jx&st=dd0wr24t&raw=1)
+
 
 2. **Sistema de RFID:**
    - Identificación por tarjeta para abrir puertas y garaje.
-   ![Puerta con tarjeta](/Cisco/assets/automatic-door.png")
+     
+       ![Automatic Door](https://www.dropbox.com/scl/fi/hnub9u6bxgaysdz8l0v9r/automatic-door.png?rlkey=2k71x38be2suhytu8zp181st9&st=vr0a5x28&raw=1)
+
 
 3. **Sistema de alarma y detección de movimiento:**
    - Activación de cámaras y alarmas en caso de intrusión.
-    ![Garage automatico](/Cisco/assets/auto-garage.png")
+    ![Auto Garage](https://www.dropbox.com/scl/fi/5sbnu8m5wo23uajznfy68/auto-garage.png?rlkey=51j415g5mgjzut312ebn8lqf8&st=rgp5ekqo&raw=1)
+
 ---
 
 ## Conclusión
