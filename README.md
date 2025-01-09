@@ -1,3 +1,6 @@
+![PackTracer Badge](https://img.shields.io/badge/PackTracer-Cisco-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAxMjAgNDAiIHhtbDpzcGFjZT0icHJlc2VydmUiPgogPHBhdGggZD0iTTAgMGgxMjB2NDBIMHoiIGZpbGw9Im5vbmUiLz4KIDxwYXRoIGQ9Ik0zMy41IDBhOC4xNSA4LjE1IDAgMDE4LjE1IDguMTUgOCA4IDAgMDEtOC4xNSA4LjE1QTggOCAwIDAxMjUuMzUgMGE4LjE1IDguMTUgMCAwMS44MTUgOC4xNUE4IDggMCAwMS4wNSA4LjE1QTggOCAwIDAxOC4xNSAwYTguMTUgOC4xNSAwIDAxOC4xNSA4LjE1QTggOCAwIDAxMzMuNSAwem04MCAwYTguMTUgOC4xNSAwIDAxOC4xNSA4LjE1QTggOCAwIDAxMTEwLjM1IDBhOC4xNSA4LjE1IDAgMDEuODE1IDguMTVBOCA4IDAgMDEwLjA1IDguMTVBIDggOCAwIDAxODEuNSAwYTguMTUgOC4xNSAwIDAxOC4xNSA4LjE1QTggOCAwIDAxMTEuNSAwem0tNjAgMGE4LjE1IDguMTUgMCAwMTguMTUgOC4xNUE4IDggMCAwMTM5LjM1IDBhOC4xNSA4LjE1IDAgMDEuODE1IDguMTVBOCA4IDAgMDEyLjA1IDguMTVBIDggOCAwIDAxMTQuNSAwYTguMTUgOC4xNSAwIDAxOC4xNSA4LjE1QTggOCAwIDAxNTQuNSAwWiIgZmlsbD0iIzAwYjhiNSIvPgo8L3N2Zz4=)
+
+
 # Universidad Politécnica de Francisco I. Madero
 
 ## Programa Educativo:
@@ -7,9 +10,9 @@
 
 ### Nombre de la Asignatura:
 **Interconexión de Redes**
-> .[!NOTE].
-> Esta documetacion es solo para registro de mi actividad.
 
+>.[!NOTE].
+>Esta documetacion es solo para registro de mi actividad.
 ---
 
 ### Trabajo:
