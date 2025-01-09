@@ -91,7 +91,8 @@ Durante el curso de introducción a las IoT (Internet of Things), abordamos ento
 ---
 
 ## Conclusión
-La práctica permitió aplicar conocimientos de Python en dispositivos IoT y entornos simulados, proporcionando una experiencia enriquecedora.
-
+La práctica permitió aplicar conocimientos de Python y JavaScript en dispositivos IoT con arduino y entornos simulados, proporcionando una experiencia enriquecedora.
+> [!CAUTION]
+> Cuidado al modificar lo valores de algunos dispositivos puede desconfigurar la simulacion
 ---
 
